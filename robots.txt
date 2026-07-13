@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+
+User-agent: Yandex
+Allow: /
+
+Sitemap: https://lbgame777.xyz/sitemap.xml
+Crawl-delay: 2
+Host: lbgame777.xyz
